@@ -1,2 +1,2 @@
 # Inteligencia_Artificial_UBB
-Certamenes y materiales de IA 
+Repositorio que contiene la evaluación 1 del curso de Inteligencia Artificial de la Universidad del Bio-Bio
